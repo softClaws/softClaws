@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Usman @softClaws
-- 👀 I’m into web development(HTML, CSS, React.js)
-- 🌱 I’m currently a Software engineering student at ALX
-- 💞️ I’m looking to collaborate on webapp projects
+- 👀 I’m into web development(HTML, CSS, JavaScript React, Django) and machine Learning (python, tensorflow, keras library and  pandas library).
+- 🌱 I’m a final year student of  Computer engineering
+- 💞️ I’m looking to collaborate on projects and get hired !
 - 📫 How to reach me ... uabdulkadir06@gmail.com
 
 
